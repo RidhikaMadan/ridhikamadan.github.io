@@ -1,2 +1,2 @@
-# ridhika.github.io
-personal website with fullpage.js
+# ridhikamadan.github.io
+personal website built with fullpage.js
