@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  font-family: 'Lato', sans-serif;
+  overflow: hidden;
+}
+
+.intro p{
+  width: 50%;
+  margin: 0.5em auto;
+  font-size: 1.65em;
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  text-align: center;
+  color: #ffffff;
+  padding: 40px;
+}
+
+#intro { background: #B0C4DE}
+#cs-ta { background: #D8CDF0}
+#team-lead { background: #f2c6de}
+#contact { background: #c1b0de;}
+
+html, body, .section {
+  height: 100vh;
+  width: 100vw;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bolder;
+  transition: color 0.3s, background-color 0.3s;
+  padding: 4px 4px;
+  border-radius: 4px;
+}
+
+a:hover {
+  color: #ffcc00;
+  background-color: rgba(255, 204, 0, 0.3);
+  border-bottom: 2px solid #ffcc00;
+}
+
+
