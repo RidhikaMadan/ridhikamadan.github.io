@@ -1,2 +1,2 @@
 # ridhikamadan.github.io
-personal website built with fullpage.js
+simple flipbook style personal page built with fullpage.js
